@@ -1,1 +1,1 @@
-# pyrhon-assigment-7
+# python-assigment-7
